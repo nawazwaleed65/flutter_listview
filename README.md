@@ -1,15 +1,10 @@
-# task7
+# flutter_listview
 
 A new Flutter project.
 
-## Getting Started
+## Description:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A Flutter application showcasing the implementation of a dynamic list using ListView.builder. Each item in the list is represented by a ListTile widget that includes an index, a name, a subtitle, and a trailing icon. Perfect for beginners learning to work with lists in Flutter.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
